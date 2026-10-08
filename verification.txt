@@ -1,0 +1,20 @@
+test_byte_units_and_conservation (test_model.ModelTests.test_byte_units_and_conservation) ... ok
+test_capacity_drop (test_model.ModelTests.test_capacity_drop) ... ok
+test_exact_policy_timing (test_model.ModelTests.test_exact_policy_timing) ... ok
+test_expiry_releases_traffic (test_model.ModelTests.test_expiry_releases_traffic) ... ok
+test_heartbeat_phase_recovery (test_model.ModelTests.test_heartbeat_phase_recovery) ... ok
+test_invalid_input (test_model.ModelTests.test_invalid_input) ... ok
+test_no_backup (test_model.ModelTests.test_no_backup) ... ok
+test_proportional_share (test_model.ModelTests.test_proportional_share) ... ok
+test_randomized_conservation (test_model.ModelTests.test_randomized_conservation) ... ok
+test_repeatability (test_model.ModelTests.test_repeatability) ... ok
+test_reset_epoch (test_model.ModelTests.test_reset_epoch) ... ok
+test_stale_command (test_model.ModelTests.test_stale_command) ... ok
+test_strict_threshold (test_model.ModelTests.test_strict_threshold) ... ok
+test_total_message_loss (test_model.ModelTests.test_total_message_loss) ... ok
+test_weighted_counter (test_model.ModelTests.test_weighted_counter) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.587s
+
+OK
